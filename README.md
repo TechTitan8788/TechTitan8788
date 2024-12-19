@@ -2,9 +2,8 @@
   <!-- Background Image -->
   <img src="https://static.vecteezy.com/system/resources/thumbnails/025/463/773/small_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg" 
        alt="Background Image" 
-       style="width: 50%; height: 50%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;">
+       style="width: auto; height: auto; max-width: 100%; max-height: 100%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Vishal lokhande</h1>
 <h3 align="center">A Passionate Web Devloper</h3>
