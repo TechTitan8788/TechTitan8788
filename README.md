@@ -2,7 +2,7 @@
   <!-- Background Image -->
   <img src="https://static.vecteezy.com/system/resources/thumbnails/025/463/773/small_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg" 
        alt="Background Image" 
-       style="width: 100%; height: 80%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;">
+       style="width: 50%; height: 50%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;">
 </div>
 
 
