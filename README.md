@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at Github ID = (https://github.com/vishallokhande8788)
+- 👨‍💻 All of my projects are available at Github Repositories  = https://github.com/Vishallokhande8788?tab=repositories
 
-- 💬 Ask me about **[Technologies/Topics You're Comfortable With]**
+- 💬 Ask me about **React.js , Javascript , Frontend**
 
-- 📫 How to reach me **[your-email@example.com]**
+- 📫 How to reach me **vishallokhande8788@gmail.com**
 
-- ⚡ Fun fact **[Add an interesting or fun fact about yourself]**
+- ⚡ Fun fact **[Add an interesting or  fact about yourself]**
 
 ---
 
