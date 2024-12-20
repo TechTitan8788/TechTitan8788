@@ -21,7 +21,7 @@
 - ⚡ Fun fact **My notes are filled with tons of smileys**
 
 ---
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishallokhande8788&label=Profile%20views&color=0e75b6&style=flat" alt="vishallokhande8788"  height="40px" width="200"/> </p>
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 <p align="center" style="transform: scale(1.25); display: inline-block;">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
