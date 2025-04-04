@@ -141,6 +141,21 @@
 <a href="https://daisyui.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/daisyUI-%23FFD700.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23000000" />
 </a>
+<a href="https://reactrouter.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React Router DOM-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://react.dev/reference/react-dom" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React DOM-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://react.dev/reference/react/useContext" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Context API-%237D4CDB.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Redux Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
 
 
 
